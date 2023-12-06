@@ -1,0 +1,12 @@
+name: BetterChat
+version: '${version}'
+main: me.hadioread.BetterChat
+api-version: 1.17
+commands:
+  msg:
+    aliases: [w, tell, whisper]
+  reply:
+    aliases: r
+  ignore:
+    aliases: block
+  ignorelist:
